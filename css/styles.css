@@ -31,3 +31,13 @@ font-size: 10em
   border: 4px solid white;
   padding: 6px;
 }
+@media screen and (max-width: 480px) and (min-width: 300px){
+  .big  {
+    font-size: 2em;
+
+  }
+  img {
+    width: 250px;
+  }
+
+}
