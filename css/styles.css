@@ -1,0 +1,22 @@
+.bold {
+  font-weight: bolder;
+  color: red;
+}
+.cool{
+  text-align: center;
+  color: white;
+  font-family: 'Amatic SC', cursive;
+  letter-spacing: 10px
+}
+body {
+  background-color: #000;
+}
+.big {
+font-size: 10em
+}
+.tight {
+  letter-spacing: normal;
+  color: white;
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+}
